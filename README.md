@@ -4,8 +4,8 @@
 [Zeplin](http://zeplin.io) helps the collaborations between designers and developers but – at now – it doesn’t support non square [pixel aspect ratio (PAR)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&cad=rja&uact=8&ved=2ahUKEwju2evk2bjhAhUWwAIHHY-XAzgQFjAPegQIBBAB&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPixel_aspect_ratio&usg=AOvVaw2uBdzUfwVSXke0BpvuInKs) used often on industrial screens.
 If you need to read horizontal measures distorted by a specific pixel aspect ratio you can use this [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet).
 
-![size](https://github.com/teoteo/pixelAspectRatio4Zeplin/size.gif)
-![distances](https://github.com/teoteo/pixelAspectRatio4Zeplin/distance.gif)
+![size](https://raw.githubusercontent.com/teoteo/pixelAspectRatio4Zeplin/master/size.gif)
+![distances](https://raw.githubusercontent.com/teoteo/pixelAspectRatio4Zeplin/master/distance.gif)
 
 ##How to:
 
