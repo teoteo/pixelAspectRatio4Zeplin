@@ -7,7 +7,7 @@ If you need to read horizontal measures distorted by a specific pixel aspect rat
 ![size](https://raw.githubusercontent.com/teoteo/pixelAspectRatio4Zeplin/master/size.gif)
 ![distances](https://raw.githubusercontent.com/teoteo/pixelAspectRatio4Zeplin/master/distance.gif)
 
-##How to:
+## How to:
 
 1. Identify the pixel pitch of destination display;
 2. copy this piece of JavaScript in a text editor (this is ready for a pixel aspect ratio of 0.93) and set the variables pixePithH and pixePithV
@@ -15,7 +15,7 @@ If you need to read horizontal measures distorted by a specific pixel aspect rat
 javascript:(function(){
 	pixePithH=0.1926;
 	pixePithV=0.1790;
-	document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/teoteo/pixelAspectRatio4Zeplin/master/zeplinpar.js';
+	document.body.appendChild(document.createElement('script')).src='https://teoteo.github.io/pixelAspectRatio4Zeplin/zeplinpar.js';
 })();
 ```
 3. add the bookmarklet creating a bookmar using the modified JavaScript as address;
