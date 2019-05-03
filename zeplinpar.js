@@ -53,3 +53,12 @@ observer.observe(targetNode, config);
 }
 
 zeplinObserve();
+
+function zeplinZIndexFix() {
+	
+	//	Put component label behind measure label
+	const componentLabel = document.querySelector('.componentLayer a');
+	componentLabel.setAttribute('style', 'z-index: auto');
+}
+
+zeplinZIndexFix();
